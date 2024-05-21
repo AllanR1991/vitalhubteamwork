@@ -1,19 +1,52 @@
-![Logo](https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/77de95ed-639d-4adf-9596-af86b0042e1d)
+<p align="center">
+  <img src="https://github.com/Lucca-gOn/vitalhubteamwork/assets/22855740/77de95ed-639d-4adf-9596-af86b0042e1d" alt="Logo" width="400"/>
+</p>
 
 
 # Projeto VitalHub
 
-Projeto desenvolvido durante o 3º Semestre de Desenvolvimento de Sistemas, para solucionar problemas enfrentados no agendamento de consultas de clinicas.
+Em um cenário urbano moderno, onde a inovação na saúde é crucial, nós, um grupo de desenvolvimento de sistemas, criamos o projeto "VitalHub", um aplicativo revolucionário para integrar médicos, pacientes e clínicas. Nossa equipe, composta por membros determinados e habilidosos, visou criar uma solução multiplataforma acessível em iOS e Android.
+
+O "VitalHub" permite o cadastro de usuários, com médicos previamente registrados e pacientes recebendo um e-mail de boas-vindas. Os pacientes podem agendar consultas escolhendo médicos por especialidade ou clínica, enquanto os médicos podem visualizar e cancelar consultas, notificando automaticamente os pacientes.
+
+O aplicativo facilita o acompanhamento de consultas, permitindo que médicos editem prontuários e que pacientes registrem resultados de exames via câmera do celular. Enfrentando o desafio de criar uma tela para o agendamento de exames médicos, desenvolvemos funcionalidades adicionais, como notificações de lembretes de consultas e um mapa de localização da clínica via GPS.
+
+O "VitalHub" se destaca como uma solução abrangente para a gestão de consultas médicas, representando um avanço significativo na área da saúde. Nossa jornada resultou em um legado de inovação, conectando saúde e tecnologia de maneiras inéditas.
 
 ## Dificuldades encontradas no projeto:
 
--	Tabalhar em com informações que não foram feitas 100% por nós foi a maior dificuldade, no caso a API foi passada porem tivemos que fazer bastantes ajustes para que ficasse funcional
+-	Lidar com informações parcialmente desenvolvidas por terceiros foi nosso maior desafio. A API que recebemos exigiu vários ajustes para se tornar operacional.
+
+
+
+
+## Screenshots
+
+
+![VitalHub ppt](https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/0d37067c-ce44-47f7-aad1-8a3a305bc8cf)
+
+
+## Demonstração
+
+
+
+
+
+https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/b5c8f169-f0a2-4074-bb9c-73e7cbc7fd20
+
+https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/6a41def3-3c63-4a3f-a490-4c64a1bfddd6
+
+https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/873741ef-a2b4-4ea3-89b9-c9da5e1233c6
+
+
+
+
 
 ## Recursos utilizados durante o desenvolvimento:
 
 -	SO:
 	-	![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
- -	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+	-	![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 -	Prototipação:
 	-	[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/e3ZVLtySXRLHz0EUPnWm3x/VitalHub-(Alunos)-(Copy)?node-id=0-1&t=2vPrgYVQIYrT0EBz-0)
@@ -63,7 +96,7 @@ Projeto desenvolvido durante o 3º Semestre de Desenvolvimento de Sistemas, para
   npm install
 ```
 
-
+<!--
 ## Funcionalidades
 
 - Transcrição de imagem em texto.
@@ -71,7 +104,7 @@ Projeto desenvolvido durante o 3º Semestre de Desenvolvimento de Sistemas, para
 - Agendamentos
 - Envio de E-mail
 - Perfil de usuario
-
+-->
 
 
 
