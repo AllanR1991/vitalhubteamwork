@@ -28,19 +28,11 @@ O "VitalHub" se destaca como uma solução abrangente para a gestão de consulta
 
 ## Demonstração
 
-
-
-
-
 https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/b5c8f169-f0a2-4074-bb9c-73e7cbc7fd20
 
-https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/6a41def3-3c63-4a3f-a490-4c64a1bfddd6
+https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/686ac66a-bc13-4bc5-be2f-f160c0a965fd
 
-https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/873741ef-a2b4-4ea3-89b9-c9da5e1233c6
-
-
-
-
+https://github.com/AllanR1991/vitalhubteamwork/assets/22855740/563ee595-ed38-443d-8285-95e592a316c7
 
 ## Recursos utilizados durante o desenvolvimento:
 
